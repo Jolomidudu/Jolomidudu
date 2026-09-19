@@ -36,4 +36,4 @@ I’m a Software Engineer focused on building modern, scalable, and user-centere
 
 ### 🤝 Let's Connect
 
-[LinkedIn](https://linkedin.com/in.jolomid) • [Portfolio](https://jolomi.vercel.app)
+[LinkedIn](https://linkedin.com/in/jolomid) • [Portfolio](https://jolomi.vercel.app)
