@@ -2,7 +2,7 @@
 
 ## Welcome to my GitHub Profile!
 
-I’m a Software Engineer focused on building modern, scalable, and user-centered digital solutions. I have experience developing customer-facing applications and backend systems across industries including real estate, fmcg, fintech, healthcare, hospitality and SaaS.
+I’m a Software Engineer focused on building modern, scalable, and user-centered digital solutions. I have experience developing customer-facing applications and backend systems across industries including real estate, fmcg, fintech, banking, healthcare, hospitality and SaaS.
 
 ### 🛠️ Technologies & Tools
 
